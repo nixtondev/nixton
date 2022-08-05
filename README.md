@@ -1,2 +1,2 @@
 # nixton
-Your local hacker nerd.
+I'am a white hat hacker, I like to code, hack, and write.
